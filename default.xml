@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote  name="origin" fetch="ssh://git@github.com/"/>
+    <default revision="master" remote="origin"/>
+    <project path="supercell" name="zillians/supercell"/>
+    <project path="supercell/projects/common" name="zillians/supercell_common"/>
+    <project path="supercell/projects/language" name="zillians/supercell_language"/>
+</manifest>
