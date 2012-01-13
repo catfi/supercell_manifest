@@ -19,6 +19,15 @@ Our cloud computing platform enables more game content to be created with less c
 Game developers can freely augment/enrich their gameworlds without the worry of
 performance degradation and the burden of deployment and hosting.
 
+Release Note
+------------
+
+This is a just preliminary release to make us embarrasing and make you laugh, 
+but trust me, there's much more to come in the following months, so please
+expect things to break.
+
+At this moment, only C-style function works (template function is supported)
+
 Supported Compiler
 ------------------
 * GCC 4.5.2 or later
@@ -46,10 +55,6 @@ Build
 
 Installation
 ------------
-
-This is a just preliminary release to make us embarrasing and make you laugh, 
-but trust me, there's much more to see in the following months.
-
 
 Usage
 -----
