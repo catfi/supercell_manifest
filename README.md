@@ -36,7 +36,7 @@ Build
 4. repo sync
 5. repo forall -c git checkout -b master --track origin/master
 6. repo forall -c git checkout -b develop --track origin/develop
-7. cd platform; mkdir build; cd build;
+7. cd supercell; mkdir build; cd build;
 8. cmake ..; make -j4
 
 Installation
