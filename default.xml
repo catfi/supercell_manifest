@@ -4,5 +4,7 @@
     <default revision="master" remote="origin"/>
     <project path="supercell" name="zillians/supercell"/>
     <project path="supercell/projects/common" name="zillians/supercell_common"/>
+    <project path="supercell/projects/network" name="zillians/supercell_network"/>
     <project path="supercell/projects/language" name="zillians/supercell_language"/>
+    <project path="supercell/projects/runtime" name="zillians/supercell_runtime"/>
 </manifest>
